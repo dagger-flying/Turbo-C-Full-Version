@@ -236,3 +236,6 @@ This repository serves as the official landing page for Turbo C++. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Turbo C++ today!**
+
+---
+**Last updated:** 2026-09-08 18:28:24 UTC
