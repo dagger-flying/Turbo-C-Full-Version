@@ -238,4 +238,4 @@ This repository serves as the official landing page for Turbo C++. The software 
 **Get the most recent version of Turbo C++ today!**
 
 ---
-**Last updated:** 2026-09-09 14:18:49 UTC
+**Last updated:** 2026-09-09 18:26:04 UTC
